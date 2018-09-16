@@ -1,0 +1,31 @@
+h1{
+	color: black;
+	border-style: double;
+	border-color: black;
+	text-align: center;
+}
+h2{
+	color: red;
+	font-size: 18pt;
+}
+
+h4{
+	font-weight: bold;
+	color: purple;
+}
+
+a{
+	color: red;
+	font-weight: bold;
+}
+
+li{
+	color: black;
+	font-weight: bold;
+}
+
+p{
+	color: black;
+	font-size: 12pt;
+	font-weight: normal;
+}
